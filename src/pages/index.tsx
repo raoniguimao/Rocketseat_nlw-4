@@ -1,8 +1,8 @@
-import { CompletedChallenges } from "../Components/CompletedChallenges";
-import { Countdown } from "../Components/Countdown";
-import { ExperienceBar } from "../Components/ExperinceBar";
-import { Profile } from "../Components/Profile";
-import { ChallengeBox } from "../Components/ChallengeBox";
+import { CompletedChallenges } from "../components/CompletedChallenges";
+import { Countdown } from "../components/Countdown";
+import { ExperienceBar } from "../components/ExperinceBar";
+import { Profile } from "../components/Profile";
+import { ChallengeBox } from "../components/ChallengeBox";
 
 import Head from 'next/head';
 
